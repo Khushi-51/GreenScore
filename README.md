@@ -4,7 +4,7 @@
 
 GreenScore is a comprehensive sustainability platform that combines artificial intelligence, blockchain technology, and gamification to make eco-friendly living fun, rewarding, and impactful.
 
-![GreenScore Dashboard](https://via.placeholder.com/800x400/22c55e/ffffff?text=GreenScore+Dashboard)
+![GreenScore Dashboard](https://github.com/Khushi-51/GreenScore/blob/main/public/greenScore-Dashboard.png?raw=true)
 
 ## ✨ Features
 
