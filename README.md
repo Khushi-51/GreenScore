@@ -56,16 +56,7 @@ GreenScore is a comprehensive sustainability platform that combines artificial i
 - **Smart Contracts** - Token management
 
 ### Database
-- **MySQL/PostgreSQL** - User data and analytics
-- **IPFS** - Decentralized file storage for bills
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
-- MetaMask browser extension
-- MySQL/PostgreSQL database
+- **MongoDB - Scalable Data Storage 
 
 ### Installation
 
@@ -89,8 +80,6 @@ cp .env.example .env.local
 
 Edit `.env.local` with your configuration:
 \`\`\`env
-# Database
-DATABASE_URL="mysql://username:password@localhost:3306/greenscore"
 
 # Blockchain (Optional - for production)
 NEXT_PUBLIC_POLYGON_RPC_URL="https://rpc-mumbai.maticvigil.com/"
@@ -102,8 +91,6 @@ OPENAI_API_KEY="your-openai-key"
 
 4. **Set up the database**
 \`\`\`bash
-# Run the SQL setup script
-mysql -u username -p greenscore < scripts/setup-database.sql
 \`\`\`
 
 5. **Start the development server**
